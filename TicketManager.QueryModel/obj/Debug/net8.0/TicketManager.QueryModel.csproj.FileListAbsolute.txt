@@ -1,0 +1,11 @@
+D:\work\ticket-manager-server\TicketManager.QueryModel\bin\Debug\net8.0\TicketManager.QueryModel.deps.json
+D:\work\ticket-manager-server\TicketManager.QueryModel\bin\Debug\net8.0\TicketManager.QueryModel.dll
+D:\work\ticket-manager-server\TicketManager.QueryModel\bin\Debug\net8.0\TicketManager.QueryModel.pdb
+D:\work\ticket-manager-server\TicketManager.QueryModel\obj\Debug\net8.0\TicketManager.QueryModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\ticket-manager-server\TicketManager.QueryModel\obj\Debug\net8.0\TicketManager.QueryModel.AssemblyInfoInputs.cache
+D:\work\ticket-manager-server\TicketManager.QueryModel\obj\Debug\net8.0\TicketManager.QueryModel.AssemblyInfo.cs
+D:\work\ticket-manager-server\TicketManager.QueryModel\obj\Debug\net8.0\TicketManager.QueryModel.csproj.CoreCompileInputs.cache
+D:\work\ticket-manager-server\TicketManager.QueryModel\obj\Debug\net8.0\TicketManager.QueryModel.dll
+D:\work\ticket-manager-server\TicketManager.QueryModel\obj\Debug\net8.0\refint\TicketManager.QueryModel.dll
+D:\work\ticket-manager-server\TicketManager.QueryModel\obj\Debug\net8.0\TicketManager.QueryModel.pdb
+D:\work\ticket-manager-server\TicketManager.QueryModel\obj\Debug\net8.0\ref\TicketManager.QueryModel.dll

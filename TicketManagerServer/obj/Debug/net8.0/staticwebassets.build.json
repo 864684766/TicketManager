@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pHPa5cqePJ/LwOwNT5YmT8kKyJSO7PDoh95WmuQCGmU=",
+  "Source": "TicketManagerServer",
+  "BasePath": "_content/TicketManagerServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

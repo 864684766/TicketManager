@@ -1,0 +1,10 @@
+
+ 
+datetime：2024-08-21 16:01:43,527 threadID:[3] level：  INFO   class：TicketManagerServer.Controllers.UserController property: [(null)] - 
+UpdateUserInfo params:{"Id":0,"Name":null,"Sex":null,"Age":null,"Phone":null,"idCard":null,"icon":null,"userPwd":null,"account":null}
+ 
+
+ 
+datetime：2024-08-21 16:04:57,862 threadID:[33] level：  INFO   class：TicketManagerServer.Controllers.UserController property: [(null)] - 
+UpdateUserInfo params:{"Id":0,"Name":null,"Sex":null,"Age":null,"Phone":null,"idCard":null,"icon":null,"userPwd":null,"account":null}
+ 

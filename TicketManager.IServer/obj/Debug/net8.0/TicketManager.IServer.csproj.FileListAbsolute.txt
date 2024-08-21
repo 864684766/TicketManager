@@ -1,0 +1,17 @@
+D:\work\ticket-manager-server\TicketManager.IServer\bin\Debug\net8.0\TicketManager.IServer.deps.json
+D:\work\ticket-manager-server\TicketManager.IServer\bin\Debug\net8.0\TicketManager.IServer.dll
+D:\work\ticket-manager-server\TicketManager.IServer\bin\Debug\net8.0\TicketManager.IServer.pdb
+D:\work\ticket-manager-server\TicketManager.IServer\bin\Debug\net8.0\TicketManager.Model.dll
+D:\work\ticket-manager-server\TicketManager.IServer\bin\Debug\net8.0\TicketManager.Model.pdb
+D:\work\ticket-manager-server\TicketManager.IServer\obj\Debug\net8.0\TicketManager.IServer.csproj.AssemblyReference.cache
+D:\work\ticket-manager-server\TicketManager.IServer\obj\Debug\net8.0\TicketManager.IServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\ticket-manager-server\TicketManager.IServer\obj\Debug\net8.0\TicketManager.IServer.AssemblyInfoInputs.cache
+D:\work\ticket-manager-server\TicketManager.IServer\obj\Debug\net8.0\TicketManager.IServer.AssemblyInfo.cs
+D:\work\ticket-manager-server\TicketManager.IServer\obj\Debug\net8.0\TicketManager.IServer.csproj.CoreCompileInputs.cache
+D:\work\ticket-manager-server\TicketManager.IServer\obj\Debug\net8.0\TicketMa.886BC6B8.Up2Date
+D:\work\ticket-manager-server\TicketManager.IServer\obj\Debug\net8.0\TicketManager.IServer.dll
+D:\work\ticket-manager-server\TicketManager.IServer\obj\Debug\net8.0\refint\TicketManager.IServer.dll
+D:\work\ticket-manager-server\TicketManager.IServer\obj\Debug\net8.0\TicketManager.IServer.pdb
+D:\work\ticket-manager-server\TicketManager.IServer\obj\Debug\net8.0\ref\TicketManager.IServer.dll
+D:\work\ticket-manager-server\TicketManager.IServer\bin\Debug\net8.0\TicketManager.QueryModel.dll
+D:\work\ticket-manager-server\TicketManager.IServer\bin\Debug\net8.0\TicketManager.QueryModel.pdb

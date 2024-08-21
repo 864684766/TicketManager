@@ -1,0 +1,17 @@
+D:\work\ticket-manager-server\TicketManager.Repository\bin\Debug\net8.0\TicketManager.Repository.deps.json
+D:\work\ticket-manager-server\TicketManager.Repository\bin\Debug\net8.0\TicketManager.Repository.dll
+D:\work\ticket-manager-server\TicketManager.Repository\bin\Debug\net8.0\TicketManager.Repository.pdb
+D:\work\ticket-manager-server\TicketManager.Repository\bin\Debug\net8.0\TicketManager.Emuns.dll
+D:\work\ticket-manager-server\TicketManager.Repository\bin\Debug\net8.0\TicketManager.Model.dll
+D:\work\ticket-manager-server\TicketManager.Repository\bin\Debug\net8.0\TicketManager.Emuns.pdb
+D:\work\ticket-manager-server\TicketManager.Repository\bin\Debug\net8.0\TicketManager.Model.pdb
+D:\work\ticket-manager-server\TicketManager.Repository\obj\Debug\net8.0\TicketManager.Repository.csproj.AssemblyReference.cache
+D:\work\ticket-manager-server\TicketManager.Repository\obj\Debug\net8.0\TicketManager.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\ticket-manager-server\TicketManager.Repository\obj\Debug\net8.0\TicketManager.Repository.AssemblyInfoInputs.cache
+D:\work\ticket-manager-server\TicketManager.Repository\obj\Debug\net8.0\TicketManager.Repository.AssemblyInfo.cs
+D:\work\ticket-manager-server\TicketManager.Repository\obj\Debug\net8.0\TicketManager.Repository.csproj.CoreCompileInputs.cache
+D:\work\ticket-manager-server\TicketManager.Repository\obj\Debug\net8.0\TicketMa.89258C4C.Up2Date
+D:\work\ticket-manager-server\TicketManager.Repository\obj\Debug\net8.0\TicketManager.Repository.dll
+D:\work\ticket-manager-server\TicketManager.Repository\obj\Debug\net8.0\refint\TicketManager.Repository.dll
+D:\work\ticket-manager-server\TicketManager.Repository\obj\Debug\net8.0\TicketManager.Repository.pdb
+D:\work\ticket-manager-server\TicketManager.Repository\obj\Debug\net8.0\ref\TicketManager.Repository.dll
