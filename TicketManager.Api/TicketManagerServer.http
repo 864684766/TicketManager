@@ -1,6 +1,12 @@
-@TicketManagerServer_HostAddress = http://localhost:5230
+@TicketManagerServer_HostAddress = https://localhost:62214
 
-GET {{TicketManagerServer_HostAddress}}/weatherforecast/
+POST {{TicketManagerServer_HostAddress}}/api/User/userLogin
 Accept: application/json
+Content-Type:application/json
 
+{
+    "name": "∏£∏Ò»’",
+    "userPwd": "21232f297a57a5a743894a0e4a801fc3",
+    "account": "∫˙“ªµ∂"
+}
 ###
