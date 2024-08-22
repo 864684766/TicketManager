@@ -7,3 +7,5 @@
 /*/bin
 /*/obj
 /TicketManagerServer/Properties
+/TicketManagerServer/.config/*.json
+/TicketManagerServer/.vs/TicketManagerServer/FileContentIndex/*.vsidx
