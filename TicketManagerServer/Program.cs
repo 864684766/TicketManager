@@ -13,7 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 IConfiguration configuration = builder.Configuration;
 var logRepository = LogManager.GetRepository(Assembly.GetEntryAssembly());
-XmlConfigurator.Configure(logRepository,new FileInfo("log4net.config"));
+XmlConfigurator.Configure(logRepository, new FileInfo("log4net.config"));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -67,6 +67,18 @@ app.UseStaticFiles();
 
 app.UseSwagger();
 app.UseSwaggerUI();
+
+app.Use(async (context, next) =>
+{
+    if (context.Request.Path == "/")
+    {
+        context.Response.Redirect("/swagger/index.html");
+    }
+    else
+    {
+        await next();
+    }
+});
 
 app.UseHttpsRedirection();
 
