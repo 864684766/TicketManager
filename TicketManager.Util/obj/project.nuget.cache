@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XEuP1kKvmmw1j60U7m7guKhYFuwnLjYyN4jOg2XHraLjrA3XTgGZ+IBlC1I/RbHWiWu7V8ckSd+PBmoy5kHcFA==",
+  "dgSpecHash": "xT/zYs3jJ7tacdBuSIekQRMrgTZ9KfDwi4tIMb1g+iSfSov0IlGWbRJ9Hj/C/rMXZ1lNpkyBwicL88b/Rwq7RQ==",
   "success": true,
-  "projectFilePath": "D:\\work\\ticket-manager-server\\TicketManager.Util\\TicketManager.Util.csproj",
+  "projectFilePath": "D:\\work\\TicketManagerServer\\TicketManager.Util\\TicketManager.Util.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\solo king\\.nuget\\packages\\log4net\\2.0.17\\log4net.2.0.17.nupkg.sha512",
     "C:\\Users\\solo king\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

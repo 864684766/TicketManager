@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+O3u+3y4hLFttWhXwVKer2yanTzoHgbgHse7phzGMhLcif5TfOR2eS1DeCZgMqkuimLVRlD0XjtMi2z29aKXEA==",
+  "dgSpecHash": "jVXvxXuKE6wqwnclUagDliRQDj+XptvkTk+i8ub5NeRRQlX1CBAgpldP/1vX1VpRQ3F9iUhLryn8ad0Ju982TA==",
   "success": true,
-  "projectFilePath": "D:\\work\\ticket-manager-server\\TicketManager.IServer\\TicketManager.IServer.csproj",
+  "projectFilePath": "D:\\work\\TicketManagerServer\\TicketManager.IServer\\TicketManager.IServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\solo king\\.nuget\\packages\\mongodb.bson\\2.28.0\\mongodb.bson.2.28.0.nupkg.sha512",
     "C:\\Users\\solo king\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

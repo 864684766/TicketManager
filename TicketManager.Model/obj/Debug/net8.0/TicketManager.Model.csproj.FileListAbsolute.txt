@@ -10,3 +10,16 @@ D:\work\ticket-manager-server\TicketManager.Model\obj\Debug\net8.0\refint\Ticket
 D:\work\ticket-manager-server\TicketManager.Model\obj\Debug\net8.0\TicketManager.Model.pdb
 D:\work\ticket-manager-server\TicketManager.Model\obj\Debug\net8.0\ref\TicketManager.Model.dll
 D:\work\ticket-manager-server\TicketManager.Model\obj\Debug\net8.0\TicketManager.Model.csproj.AssemblyReference.cache
+D:\work\TicketManagerServer\TicketManager.Model\bin\Debug\net8.0\TicketManager.Model.deps.json
+D:\work\TicketManagerServer\TicketManager.Model\bin\Debug\net8.0\TicketManager.Model.dll
+D:\work\TicketManagerServer\TicketManager.Model\bin\Debug\net8.0\TicketManager.Model.pdb
+D:\work\TicketManagerServer\TicketManager.Model\obj\Debug\net8.0\TicketManager.Model.csproj.AssemblyReference.cache
+D:\work\TicketManagerServer\TicketManager.Model\obj\Debug\net8.0\TicketManager.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\TicketManagerServer\TicketManager.Model\obj\Debug\net8.0\TicketManager.Model.AssemblyInfoInputs.cache
+D:\work\TicketManagerServer\TicketManager.Model\obj\Debug\net8.0\TicketManager.Model.AssemblyInfo.cs
+D:\work\TicketManagerServer\TicketManager.Model\obj\Debug\net8.0\TicketManager.Model.csproj.CoreCompileInputs.cache
+D:\work\TicketManagerServer\TicketManager.Model\obj\Debug\net8.0\TicketManager.Model.sourcelink.json
+D:\work\TicketManagerServer\TicketManager.Model\obj\Debug\net8.0\TicketManager.Model.dll
+D:\work\TicketManagerServer\TicketManager.Model\obj\Debug\net8.0\refint\TicketManager.Model.dll
+D:\work\TicketManagerServer\TicketManager.Model\obj\Debug\net8.0\TicketManager.Model.pdb
+D:\work\TicketManagerServer\TicketManager.Model\obj\Debug\net8.0\ref\TicketManager.Model.dll

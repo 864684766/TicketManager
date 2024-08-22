@@ -139,7 +139,10 @@
       },
       "TicketManager.Emuns/1.0.0": {
         "runtime": {
-          "TicketManager.Emuns.dll": {}
+          "TicketManager.Emuns.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

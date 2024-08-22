@@ -165,11 +165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\ticket-manager-server\\TicketManager.IServer\\TicketManager.IServer.csproj",
+      "projectUniqueName": "D:\\work\\TicketManagerServer\\TicketManager.IServer\\TicketManager.IServer.csproj",
       "projectName": "TicketManager.IServer",
-      "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.IServer\\TicketManager.IServer.csproj",
+      "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.IServer\\TicketManager.IServer.csproj",
       "packagesPath": "C:\\Users\\solo king\\.nuget\\packages\\",
-      "outputPath": "D:\\work\\ticket-manager-server\\TicketManager.IServer\\obj\\",
+      "outputPath": "D:\\work\\TicketManagerServer\\TicketManager.IServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\software\\vs_share\\NuGetPackages"
@@ -190,11 +190,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\work\\ticket-manager-server\\TicketManager.Model\\TicketManager.Model.csproj": {
-              "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.Model\\TicketManager.Model.csproj"
+            "D:\\work\\TicketManagerServer\\TicketManager.Model\\TicketManager.Model.csproj": {
+              "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.Model\\TicketManager.Model.csproj"
             },
-            "D:\\work\\ticket-manager-server\\TicketManager.QueryModel\\TicketManager.QueryModel.csproj": {
-              "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.QueryModel\\TicketManager.QueryModel.csproj"
+            "D:\\work\\TicketManagerServer\\TicketManager.QueryModel\\TicketManager.QueryModel.csproj": {
+              "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.QueryModel\\TicketManager.QueryModel.csproj"
             }
           }
         }
@@ -229,7 +229,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

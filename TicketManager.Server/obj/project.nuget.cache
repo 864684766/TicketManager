@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rvSmzvqEyRtQnDqM4XX2k4ozRytMjJeVLgKwhZc66c8j2DA+V4VaUnXRteDl2ecwmuC+UP4fxJSnb304izJY/g==",
+  "dgSpecHash": "nTfvodGJ8HniFUb4K24MOI8WpAWH3W3cHZn+AWmYA4EQCjWCJvNvncRP1+EylH5MP6nXRZfAmaP78swD95WLlw==",
   "success": true,
-  "projectFilePath": "D:\\work\\ticket-manager-server\\TicketManager.Server\\TicketManager.Server.csproj",
+  "projectFilePath": "D:\\work\\TicketManagerServer\\TicketManager.Server\\TicketManager.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\solo king\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\solo king\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

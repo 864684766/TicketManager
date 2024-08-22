@@ -2706,11 +2706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\ticket-manager-server\\TicketManager.Server\\TicketManager.Server.csproj",
+      "projectUniqueName": "D:\\work\\TicketManagerServer\\TicketManager.Server\\TicketManager.Server.csproj",
       "projectName": "TicketManager.Server",
-      "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.Server\\TicketManager.Server.csproj",
+      "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.Server\\TicketManager.Server.csproj",
       "packagesPath": "C:\\Users\\solo king\\.nuget\\packages\\",
-      "outputPath": "D:\\work\\ticket-manager-server\\TicketManager.Server\\obj\\",
+      "outputPath": "D:\\work\\TicketManagerServer\\TicketManager.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\software\\vs_share\\NuGetPackages"
@@ -2731,20 +2731,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\work\\ticket-manager-server\\TicketManager.IServer\\TicketManager.IServer.csproj": {
-              "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.IServer\\TicketManager.IServer.csproj"
+            "D:\\work\\TicketManagerServer\\TicketManager.IServer\\TicketManager.IServer.csproj": {
+              "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.IServer\\TicketManager.IServer.csproj"
             },
-            "D:\\work\\ticket-manager-server\\TicketManager.Model\\TicketManager.Model.csproj": {
-              "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.Model\\TicketManager.Model.csproj"
+            "D:\\work\\TicketManagerServer\\TicketManager.Model\\TicketManager.Model.csproj": {
+              "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.Model\\TicketManager.Model.csproj"
             },
-            "D:\\work\\ticket-manager-server\\TicketManager.QueryModel\\TicketManager.QueryModel.csproj": {
-              "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.QueryModel\\TicketManager.QueryModel.csproj"
+            "D:\\work\\TicketManagerServer\\TicketManager.QueryModel\\TicketManager.QueryModel.csproj": {
+              "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.QueryModel\\TicketManager.QueryModel.csproj"
             },
-            "D:\\work\\ticket-manager-server\\TicketManager.Repository\\TicketManager.Repository.csproj": {
-              "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.Repository\\TicketManager.Repository.csproj"
+            "D:\\work\\TicketManagerServer\\TicketManager.Repository\\TicketManager.Repository.csproj": {
+              "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.Repository\\TicketManager.Repository.csproj"
             },
-            "D:\\work\\ticket-manager-server\\TicketManager.Util\\TicketManager.Util.csproj": {
-              "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.Util\\TicketManager.Util.csproj"
+            "D:\\work\\TicketManagerServer\\TicketManager.Util\\TicketManager.Util.csproj": {
+              "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.Util\\TicketManager.Util.csproj"
             }
           }
         }
@@ -2793,7 +2793,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

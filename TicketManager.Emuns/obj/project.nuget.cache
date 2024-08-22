@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hnPxS+YfDPSYJpryXOIr0nnoBtWuS5z1Sj6BJB3iHWEj/Ztkr0QaiMcg0tBKVaOwRHcDkq2VNxEdMzKjDR+hSg==",
+  "dgSpecHash": "Eepe+jX6TkJ3XHRPWpoNNYzmNvDZStyKuTRwl+cfIUDcSjcyldpJfQF1yZ8L80czHZyQUrsOpdABS+4lt/7Frg==",
   "success": true,
-  "projectFilePath": "D:\\work\\ticket-manager-server\\TicketManager.Emuns\\TicketManager.Emuns.csproj",
+  "projectFilePath": "D:\\work\\TicketManagerServer\\TicketManager.Emuns\\TicketManager.Emuns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

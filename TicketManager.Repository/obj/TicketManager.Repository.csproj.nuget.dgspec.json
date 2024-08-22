@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\ticket-manager-server\\TicketManager.Repository\\TicketManager.Repository.csproj": {}
+    "D:\\work\\TicketManagerServer\\TicketManager.Repository\\TicketManager.Repository.csproj": {}
   },
   "projects": {
-    "D:\\work\\ticket-manager-server\\TicketManager.Emuns\\TicketManager.Emuns.csproj": {
+    "D:\\work\\TicketManagerServer\\TicketManager.Emuns\\TicketManager.Emuns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\ticket-manager-server\\TicketManager.Emuns\\TicketManager.Emuns.csproj",
+        "projectUniqueName": "D:\\work\\TicketManagerServer\\TicketManager.Emuns\\TicketManager.Emuns.csproj",
         "projectName": "TicketManager.Emuns",
-        "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.Emuns\\TicketManager.Emuns.csproj",
+        "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.Emuns\\TicketManager.Emuns.csproj",
         "packagesPath": "C:\\Users\\solo king\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\ticket-manager-server\\TicketManager.Emuns\\obj\\",
+        "outputPath": "D:\\work\\TicketManagerServer\\TicketManager.Emuns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\software\\vs_share\\NuGetPackages"
@@ -64,18 +64,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\work\\ticket-manager-server\\TicketManager.Model\\TicketManager.Model.csproj": {
+    "D:\\work\\TicketManagerServer\\TicketManager.Model\\TicketManager.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\ticket-manager-server\\TicketManager.Model\\TicketManager.Model.csproj",
+        "projectUniqueName": "D:\\work\\TicketManagerServer\\TicketManager.Model\\TicketManager.Model.csproj",
         "projectName": "TicketManager.Model",
-        "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.Model\\TicketManager.Model.csproj",
+        "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.Model\\TicketManager.Model.csproj",
         "packagesPath": "C:\\Users\\solo king\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\ticket-manager-server\\TicketManager.Model\\obj\\",
+        "outputPath": "D:\\work\\TicketManagerServer\\TicketManager.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\software\\vs_share\\NuGetPackages"
@@ -134,18 +134,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\work\\ticket-manager-server\\TicketManager.Repository\\TicketManager.Repository.csproj": {
+    "D:\\work\\TicketManagerServer\\TicketManager.Repository\\TicketManager.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\ticket-manager-server\\TicketManager.Repository\\TicketManager.Repository.csproj",
+        "projectUniqueName": "D:\\work\\TicketManagerServer\\TicketManager.Repository\\TicketManager.Repository.csproj",
         "projectName": "TicketManager.Repository",
-        "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.Repository\\TicketManager.Repository.csproj",
+        "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.Repository\\TicketManager.Repository.csproj",
         "packagesPath": "C:\\Users\\solo king\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\ticket-manager-server\\TicketManager.Repository\\obj\\",
+        "outputPath": "D:\\work\\TicketManagerServer\\TicketManager.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\software\\vs_share\\NuGetPackages"
@@ -166,11 +166,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\work\\ticket-manager-server\\TicketManager.Emuns\\TicketManager.Emuns.csproj": {
-                "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.Emuns\\TicketManager.Emuns.csproj"
+              "D:\\work\\TicketManagerServer\\TicketManager.Emuns\\TicketManager.Emuns.csproj": {
+                "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.Emuns\\TicketManager.Emuns.csproj"
               },
-              "D:\\work\\ticket-manager-server\\TicketManager.Model\\TicketManager.Model.csproj": {
-                "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.Model\\TicketManager.Model.csproj"
+              "D:\\work\\TicketManagerServer\\TicketManager.Model\\TicketManager.Model.csproj": {
+                "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.Model\\TicketManager.Model.csproj"
               }
             }
           }
@@ -223,7 +223,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

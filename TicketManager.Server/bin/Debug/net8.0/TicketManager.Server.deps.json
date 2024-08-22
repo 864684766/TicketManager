@@ -475,7 +475,10 @@
       },
       "TicketManager.Emuns/1.0.0": {
         "runtime": {
-          "TicketManager.Emuns.dll": {}
+          "TicketManager.Emuns.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TicketManager.IServer/1.0.0": {
@@ -484,7 +487,10 @@
           "TicketManager.QueryModel": "1.0.0"
         },
         "runtime": {
-          "TicketManager.IServer.dll": {}
+          "TicketManager.IServer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TicketManager.Model/1.0.0": {
@@ -492,12 +498,18 @@
           "MongoDB.Bson": "2.28.0"
         },
         "runtime": {
-          "TicketManager.Model.dll": {}
+          "TicketManager.Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TicketManager.QueryModel/1.0.0": {
         "runtime": {
-          "TicketManager.QueryModel.dll": {}
+          "TicketManager.QueryModel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TicketManager.Repository/1.0.0": {
@@ -510,7 +522,10 @@
           "log4net": "2.0.17"
         },
         "runtime": {
-          "TicketManager.Repository.dll": {}
+          "TicketManager.Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TicketManager.Util/1.0.0": {
@@ -521,7 +536,10 @@
           "log4net": "2.0.17"
         },
         "runtime": {
-          "TicketManager.Util.dll": {}
+          "TicketManager.Util.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

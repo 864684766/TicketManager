@@ -2329,11 +2329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\ticket-manager-server\\TicketManager.DbContext\\TicketManager.DbContext.csproj",
+      "projectUniqueName": "D:\\work\\TicketManagerServer\\TicketManager.DbContext\\TicketManager.DbContext.csproj",
       "projectName": "TicketManager.DbContext",
-      "projectPath": "D:\\work\\ticket-manager-server\\TicketManager.DbContext\\TicketManager.DbContext.csproj",
+      "projectPath": "D:\\work\\TicketManagerServer\\TicketManager.DbContext\\TicketManager.DbContext.csproj",
       "packagesPath": "C:\\Users\\solo king\\.nuget\\packages\\",
-      "outputPath": "D:\\work\\ticket-manager-server\\TicketManager.DbContext\\obj\\",
+      "outputPath": "D:\\work\\TicketManagerServer\\TicketManager.DbContext\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\software\\vs_share\\NuGetPackages"
@@ -2404,7 +2404,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -34,12 +34,18 @@
           "MongoDB.Bson": "2.28.0"
         },
         "runtime": {
-          "TicketManager.Model.dll": {}
+          "TicketManager.Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "TicketManager.QueryModel/1.0.0": {
         "runtime": {
-          "TicketManager.QueryModel.dll": {}
+          "TicketManager.QueryModel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

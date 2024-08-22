@@ -1,0 +1,9 @@
+/TicketManagerServer/bin
+/TicketManagerServer/obj
+/.vs
+/aspnet_client
+/TicketManager.DbContext/bin
+/TicketManager.DbContext/obj
+/*/bin
+/*/obj
+/TicketManagerServer/Properties
