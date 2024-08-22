@@ -1,5 +1,5 @@
-/TicketManagerServer/bin
-/TicketManagerServer/obj
+/TicketManager.Api/bin
+/TicketManager.Api/obj
 /.vs
 /aspnet_client
 /TicketManager.DbContext/bin
@@ -19,7 +19,7 @@
 /TicketManager.Util/bin
 /TicketManager.Util/obj
 
-/TicketManagerServer/Properties
-/TicketManagerServer/.config/*.json
-/TicketManagerServer/.vs/TicketManagerServer/FileContentIndex/*.vsidx
-/TicketManagerServer/.vs
+/TicketManager.Api/Properties
+/TicketManager.Api/.config/*.json
+/TicketManager.Api/.vs/TicketManagerServer/FileContentIndex/*.vsidx
+/TicketManager.Api/.vs
